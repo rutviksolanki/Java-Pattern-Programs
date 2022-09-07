@@ -4,7 +4,7 @@
 <p><li>28 Star Partterns Using Java. <code><a href="https://github.com/rutviksolanki/Java-Pattern-Programs/blob/main/Partterns.java">code</a></code></li></p>
 <pre>
   <li>Output:</li>
-    Pattern No
+    Pattern No:1
     ******
     ******
     ******
