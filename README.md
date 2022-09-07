@@ -3,7 +3,7 @@
 
 <li><p>28 Star Partterns Using Java. <code><a href="https://github.com/rutviksolanki/Java-Pattern-Programs/blob/main/Partterns.java">code</a></code></p></li>
 
-<li>Output:</li>
+Output:
 
 Pattern No:1
 ******
@@ -12,7 +12,6 @@ Pattern No:1
 ******
 ******
 ******
-_________________________________________________
 
 Pattern No:2
 ****** 
@@ -21,7 +20,6 @@ Pattern No:2
 *    * 
 *    * 
 ****** 
-_________________________________________________
 
 Pattern No:3
 ****** 
